@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Fri, 12 Jun 2015 23:05:29 +0800</pubDate><title><![CDATA[Add Custom CSS Style]]></title><url><![CDATA[custom-css]]></url><meta><![CDATA[Custom CSS Style]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[Add Custom CSS Style]]></menu><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[docs]]></parent><content><![CDATA[&lt;p&gt;There are two ways to modify CSS style:&lt;/p&gt;
+&lt;p&gt;1. In Admin pannel&lt;/p&gt;
+&lt;p&gt;Add a component name &lt;span style=&quot;color:#0000cd;&quot;&gt;&lt;strong&gt;css&lt;/strong&gt;&lt;/span&gt; in &lt;strong&gt;Theme&lt;/strong&gt; &amp;gt; &lt;strong&gt;Edit Components&lt;/strong&gt; &amp;gt; &lt;strong&gt;ADD COMPONENT&lt;/strong&gt;, then add your custom css style code&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;2. Edit &lt;span style=&quot;color:#0000cd;&quot;&gt;&lt;strong&gt;(WEB_ROOT)\\theme\\Diki\\css\\default.less&lt;/strong&gt;&lt;/span&gt; file( no &lt;span style=&quot;color:#ff0000;&quot;&gt;default.css&lt;/span&gt;).&lt;/p&gt;
+&lt;p&gt;Just change to your own css style.&lt;/p&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author><menuOrder><![CDATA[4]]></menuOrder></item>

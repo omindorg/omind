@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Wed, 10 Jun 2015 23:00:31 +0800</pubDate><title><![CDATA[Installation]]></title><url><![CDATA[installation]]></url><meta><![CDATA[Installation]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[Installation]]></menu><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[docs]]></parent><content><![CDATA[&lt;h2&gt;Requirements&lt;/h2&gt;
+&lt;ul&gt;
+	&lt;li&gt;UNIX/Linux/Windows/Nginx host&lt;/li&gt;
+	&lt;li&gt;PHP 5.2+&lt;/li&gt;
+	&lt;li&gt;Apache - See below for modules used&lt;/li&gt;
+	&lt;li&gt;No MySQL, No Database needed
+		&lt;ul&gt;
+			&lt;li&gt;UNIX/Linux/Windows/Nginx host&lt;/li&gt;
+			&lt;li&gt;PHP 5.2+&lt;/li&gt;
+			&lt;li&gt;Apache - See below for modules used&lt;/li&gt;
+			&lt;li&gt;No MySQL, No Database needed&lt;/li&gt;
+		&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Installation&lt;/h2&gt;
+&lt;ol&gt;
+	&lt;li&gt;Download &lt;a href=&quot;http://www.omind.org/download/&quot;&gt;the latest version of Omind&lt;/a&gt;.&lt;/li&gt;
+	&lt;li&gt;Extract the contents of the Zip File&amp;nbsp;to your server.&lt;/li&gt;
+	&lt;li&gt;Navigate to the admin subdirectory, e.g www.domain.com/admin.&lt;/li&gt;
+	&lt;li&gt;Go to &lt;strong&gt;Settings&lt;/strong&gt; pannel and modify Website URL to your own domian.&lt;/li&gt;
+	&lt;li&gt;Done.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Download, extract and upload any language file if you want a non-English installation. The decompressed language file should be put in the /admin/lang folder of the installation.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author><menuOrder><![CDATA[7]]></menuOrder></item>

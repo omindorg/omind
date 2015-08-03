@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Tue, 16 Jun 2015 22:12:08 +0800</pubDate><title><![CDATA[Shopping Cart and Paypal Account]]></title><url><![CDATA[shopping-cart]]></url><meta><![CDATA[Shopping Cart]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[Shopping Cart]]></menu><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[docs]]></parent><content><![CDATA[&lt;p&gt;It&#039;s very simple to use shopping cart on basekind.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;1. In admin panel theme &amp;gt; theme settings. fill in you paypal account.&lt;/p&gt;
+&lt;p&gt;2. Create a new page, &amp;nbsp;set &lt;strong&gt;Add this page to the menu&lt;/strong&gt; ,and pasted this code to the page content:&lt;/p&gt;
+&lt;pre&gt;&amp;lt;div class=&quot;simpleCart_items&quot; &amp;gt;&amp;amp;nbsp;&amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;cart_totalbox&quot;&amp;gt;
+    &amp;lt;span class=&quot;cart_lable&quot;&amp;gt;Total:&amp;lt;/span&amp;gt; &amp;lt;span class=&quot;simpleCart_total&quot;&amp;gt;&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;
+    &amp;lt;span class=&quot;cart_lable&quot;&amp;gt;Shipping:&amp;lt;/span&amp;gt; &amp;lt;span class=&quot;simpleCart_shipping&quot;&amp;gt;&amp;amp;nbsp;&amp;lt;/span&amp;gt;
+    &amp;lt;hr /&amp;gt;
+    &amp;lt;span class=&quot;cart_lable&quot;&amp;gt;Final Total:&amp;lt;/span&amp;gt; &amp;lt;span class=&quot;simpleCart_grandTotal&quot;&amp;gt;&amp;amp;nbsp;&amp;lt;/span&amp;gt;
+
+    &amp;lt;a href=&quot;javascript:;&quot; class=&quot;simpleCart_checkout button&quot; target=&quot;_blank&quot;&amp;gt;Checkout&amp;lt;/a&amp;gt;
+&amp;lt;/div&amp;gt;&lt;/pre&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;3. &amp;nbsp;If you want to show the total count in shopping cart, you can modify &lt;strong&gt;Add this page to the menu&lt;/strong&gt; as:&lt;/p&gt;
+&lt;pre&gt;Cart(&amp;lt;span class=&quot;simpleCart_quantity&quot;&amp;gt;&amp;lt;/span&amp;gt;)&lt;/pre&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author><menuOrder><![CDATA[5]]></menuOrder></item>

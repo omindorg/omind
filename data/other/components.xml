@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channel><item><title><![CDATA[copyright]]></title><slug>copyright</slug><value><![CDATA[A free, open source, simple company official website buider.]]></value></item><item><title><![CDATA[css]]></title><slug>css</slug><value><![CDATA[]]></value></item><item><title><![CDATA[Footer]]></title><slug>footer</slug><value><![CDATA[&lt;div class=&quot;five&quot;&gt;
+&lt;div&gt;
+&lt;p&gt;&lt;b&gt;About&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#&quot;&gt;About Us&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#&quot;&gt;Give advise&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/custom/&quot;&gt;Custom a site&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/privacy/&quot;&gt;Privacy Policy&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt; 
+
+&lt;div&gt;
+&lt;p&gt;&lt;b&gt;Documentation&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#&quot;&gt;Installation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#&quot;&gt;Configure&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#&quot;&gt;Transfer website&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#&quot;&gt;Faq&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;p&gt;&lt;b&gt;More&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#&quot;&gt;News&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/sitemap.xml&quot; target=&quot;blank&quot;&gt;Sitemap&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#&quot;&gt;Old versions&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#&quot;&gt;Update logs&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;p&gt;&lt;b&gt;More&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#&quot;&gt;News&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/sitemap.xml&quot; target=&quot;blank&quot;&gt;Sitemap&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#&quot;&gt;Old versions&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#&quot;&gt;Update logs&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;p&gt;&lt;b&gt;More&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#&quot;&gt;News&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/sitemap.xml&quot; target=&quot;blank&quot;&gt;Sitemap&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#&quot;&gt;Old versions&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#&quot;&gt;Update logs&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;]]></value></item><item><title><![CDATA[paypal]]></title><slug>paypal</slug><value><![CDATA[mgz100@126.com]]></value></item><item><title><![CDATA[Sidebar]]></title><slug>sidebar</slug><value><![CDATA[&lt;h2&gt;Quick Links&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;#&quot;&gt;XML based data storage&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#&quot;&gt;Best-in-Class User Interface&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#&quot;&gt;Undo&#039; protection &amp;amp; backups&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#&quot;&gt;Easy to theme Easy to the me &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#&quot;&gt;Great documentation&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#&quot;&gt;Growing community,Great&lt;/a&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;h2&gt;Quick Links&lt;/h2&gt;
+&lt;ul&gt; 
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;XML based data storage&lt;/a&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;Best-in-Class User Interface&lt;/a&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;Undo&#039; protection &amp;amp; backups&lt;/a&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;Easy to theme Easy to the me Ea sy to the me&lt;/a&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;Great documentation,Great documentation&lt;/a&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;Growing community,Great documentation&lt;/a&gt;&lt;/li&gt; 
+&lt;/ul&gt;]]></value></item></channel>

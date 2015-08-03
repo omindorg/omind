@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Fri, 19 Jun 2015 21:12:23 +0800</pubDate><title><![CDATA[Change Logo Image]]></title><url><![CDATA[logo-image]]></url><meta><![CDATA[Logo image]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[Change Logo Image]]></menu><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[docs]]></parent><content><![CDATA[&lt;p&gt;Prepare an&amp;nbsp;image named &lt;strong&gt;logo.png&lt;/strong&gt;( must be png type ).&lt;/p&gt;
+&lt;p&gt;On Admin pannel:&lt;/p&gt;
+&lt;ol&gt;
+	&lt;li&gt;Upload the png file by &lt;strong&gt;Files&lt;/strong&gt; &amp;gt; &lt;strong&gt;Upload files or/and Images&lt;/strong&gt;&lt;/li&gt;
+	&lt;li&gt;Replace the old png.&lt;/li&gt;
+	&lt;li&gt;Done.&lt;/li&gt;
+&lt;/ol&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author><menuOrder><![CDATA[2]]></menuOrder></item>

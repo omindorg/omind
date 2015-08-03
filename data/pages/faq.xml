@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Fri, 10 Jul 2015 23:36:33 +0800</pubDate><title><![CDATA[Frequently Asked Questions]]></title><url><![CDATA[faq]]></url><meta><![CDATA[FAQ]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[Frequently Asked Questions]]></menu><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[docs]]></parent><content><![CDATA[&lt;h2&gt;1. How to change logo image width and height?&lt;/h2&gt;
+&lt;p&gt;Just add your &lt;strong&gt;custom CSS &lt;/strong&gt;code at &lt;strong&gt;Theme&lt;/strong&gt; &amp;gt;&amp;nbsp;&lt;strong&gt;Configure Theme&lt;/strong&gt;, for example, I&#039;d like to modify logo image to width=200px and height=80px, the code is:&lt;/p&gt;
+&lt;pre&gt;#logo img{width:200px; height:80px}&lt;/pre&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;2. How to support multiple language on frontend?&lt;/h2&gt;
+&lt;p&gt;In Admin pannel:&lt;/p&gt;
+&lt;p&gt;1) Active &amp;lt;I18N Base&amp;gt; and &amp;lt;I18N Navigation&amp;gt; plugin in &lt;strong&gt;Plugins&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;2) Modify &amp;lt;Custom Permalink Structure:&amp;gt; to:&lt;/p&gt;
+&lt;pre&gt;%nondefaultlanguage%/%parent%/%slug%/&lt;/pre&gt;
+&lt;p&gt;in &lt;strong&gt;Settings&lt;/strong&gt;..&lt;/p&gt;
+&lt;p&gt;3) Create new language page with slug end of new language code, for example &lt;strong&gt;index_cn&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;4) Add change button to component in in &lt;strong&gt;Theme &lt;/strong&gt;&amp;gt; &lt;strong&gt;edit components.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Notice: If you don&#039;t use multi language support, undo the above step.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;3. How to move website to another domain?&lt;/h2&gt;
+&lt;p&gt;1) &amp;nbsp;If you also change hosting, Download your all source code from old hosting and upload them to new one.&lt;/p&gt;
+&lt;p&gt;2) Login by accessing www.youdomain.com/admin/.&lt;/p&gt;
+&lt;p&gt;3) In Admin pannel: Setting &amp;gt; General settings &amp;gt; Website URL, setup it to your new domain.&lt;/p&gt;
+&lt;p&gt;4) If your old website root is bellowed subdirectory,and you had open rewrite, you need edit .htaccess in root directory and modify&amp;nbsp;RewriteBase. For example, your old website root is &amp;nbsp;www.mydomain.com/omind, you RewriteBase may also be /omind, you should modify it to /.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author><menuOrder><![CDATA[5]]></menuOrder></item>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Sun, 12 Apr 2015 14:04:49 +0800</pubDate><title><![CDATA[优势集锦]]></title><url><![CDATA[advantage]]></url><meta><![CDATA[产品中心]]></meta><metad><![CDATA[这是产品中心]]></metad><menu><![CDATA[Advantage]]></menu><menuOrder><![CDATA[4]]></menuOrder><menuStatus><![CDATA[Y]]></menuStatus><template><![CDATA[fullwidth.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;div class=&quot;slider clearfix&quot;&gt;
+	&lt;ul class=&quot;slider__wrapper&quot;&gt;
+		&lt;li class=&quot;slider__item&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;http://www.qiaomi.org/data/uploads/slider/bg-fast.jpg&quot; style=&quot;width: 100%; height: auto;&quot; /&gt;&lt;/li&gt;
+		&lt;li class=&quot;slider__item&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;http://www.qiaomi.org/data/uploads/slider/bg-responsive.jpg&quot; style=&quot;width: 100%; height: 100%&quot; /&gt;&lt;/li&gt;
+		&lt;li class=&quot;slider__item&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;http://www.qiaomi.org/data/uploads/slider/bg-simple.jpg&quot; style=&quot;width: 1280px; height: 879px;&quot; /&gt;&lt;/li&gt;
+		&lt;li class=&quot;slider__item&quot;&gt;
+			&lt;h3 class=&quot;box&quot; style=&quot;background-color: #16a085;color:red;&quot;&gt;这是我们的时代&lt;/h3&gt;
+		&lt;/li&gt;
+		&lt;li class=&quot;slider__item&quot;&gt;
+			&lt;div class=&quot;box&quot; style=&quot;background-color: #16a085;&quot;&gt;&amp;nbsp;&lt;/div&gt;
+		&lt;/li&gt;
+	&lt;/ul&gt;
+&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author></item>

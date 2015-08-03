@@ -1,0 +1,53 @@
+header, .breadcrumbs, .container, .fullwidth, footer{
+	min-width:100%;
+}
+.wrapper {
+	width:auto;
+	max-width:980px;
+}
+
+@media (max-width: 980px) {
+    .wrapper {
+        padding: 0 10px;
+    }
+    nav {
+        float: left;
+    }
+    nav li{
+        padding:0 20px 0 0;
+    }
+    footer .right {
+        clear:both;
+        float:left;
+        text-align:left;
+        margin-top:10px;
+    }
+}
+
+@media (max-width: 800px) {
+  .breadcrumbs {
+    line-height: 32px;
+  }
+  aside,article,article section{
+    float:left;
+    width:100%;
+    margin:0;
+  }
+}
+
+@media (max-width: 640px) {
+  .two > div:nth-of-type(n),
+  .three > div:nth-of-type(n) {
+    width: 100%;
+    margin: 0;
+  }
+}
+
+@media (max-width: 480px) {
+  .four > div:nth-of-type(n),
+  .five > div:nth-of-type(n){
+    width: 100%;
+    margin: 0;
+    text-align: center;
+  }
+}

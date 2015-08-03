@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"  xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title></title>
+<link>http://www.omind.org/rss.rss</link>
+<description></description>
+<lastBuildDate>Fri, 10 Jul 2015 21:26:31 +0800</lastBuildDate>
+<language>en-US</language>
+<atom:link href="http://www.omind.org/rss.rss" rel="self" type="application/rss+xml" />
+<item>
+	  <title>Here is hello</title>
+	  <link>http://www.omind.org/index.php?post=hello</link>
+	  <guid>http://www.omind.org/index.php?post=hello</guid>
+	  <description>hello&nbsp;
+</description>
+</item>
+</channel>
+</rss>

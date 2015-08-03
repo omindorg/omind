@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Tue, 17 Mar 2015 22:11:11 +0800</pubDate><title>建站套餐 [复制]</title><url>version-1</url><meta>产品中心</meta><metad>这是产品中心</metad><menu>建站套餐2</menu><menuStatus>Y</menuStatus><template>template.php</template><parent></parent><content>&amp;lt;p&amp;gt;巧米建站系统（简称巧米）是一个免费的官方网站建设系统，但是如果有需要，也可以联系巧米团队进行网站的定制建设，定制建设包括顶级域名购买、网站空间购买、域名和网站空间绑定、以及网站系统安装工作，一周内保证拿到完整的网站。建设完成后，全部交付域名、网站空间和网站后台的账号及密码。建设套餐如下。&amp;lt;/p&amp;gt;
+&amp;lt;div class=&amp;quot;crossband simpleCart_shelfItem&amp;quot;&amp;gt;
+	&amp;lt;h2 class=&amp;quot;item_name&amp;quot;&amp;gt;&amp;lt;img alt=&amp;quot;&amp;quot; src=&amp;quot;http://www.qiaomi.org/data/uploads/1.png&amp;quot; style=&amp;quot;width: 121px; height: 121px; float: left;margin-right:10px;&amp;quot; /&amp;gt;基础版&amp;lt;/h2&amp;gt;
+	&amp;lt;p&amp;gt;&amp;lt;span style=&amp;quot;color:#ff0000;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family:comic sans ms,cursive;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-size:14px;&amp;quot; class=&amp;quot;item_price&amp;quot; &amp;gt;&amp;lt;strong&amp;gt;$699&amp;lt;/strong&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;1年顶级域名，1年独立IP空间500M，1年技术支持，巧米系统永久使用。&amp;lt;/p&amp;gt;
+&amp;lt;input class=&amp;quot;item_add&amp;quot; type=&amp;quot;button&amp;quot; value=&amp;quot;add to cart&amp;quot; /&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;crossband simpleCart_shelfItem&amp;quot;&amp;gt;
+	&amp;lt;h2 class=&amp;quot;item_name&amp;quot;&amp;gt;&amp;lt;img alt=&amp;quot;&amp;quot; src=&amp;quot;http://www.qiaomi.org/data/uploads/2.jpg&amp;quot; style=&amp;quot;width: 121px; height: 121px; float: left;margin-right:10px;&amp;quot; /&amp;gt;双喜版&amp;lt;/h2&amp;gt;
+	&amp;lt;p&amp;gt;&amp;lt;span style=&amp;quot;font-family:comic sans ms,cursive;&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;span style=&amp;quot;color:#ff0000;&amp;quot;&amp;gt;&amp;lt;span class=&amp;quot;item_price&amp;quot; style=&amp;quot;font-size:14px;&amp;quot;&amp;gt;$1299&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;2年顶级域名，2年独立IP空间500M，2年技术支持，巧米系统永久使用。&amp;lt;/p&amp;gt;
+	&amp;lt;input class=&amp;quot;item_add&amp;quot; type=&amp;quot;button&amp;quot; value=&amp;quot;add to cart&amp;quot; /&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;crossband&amp;quot;&amp;gt;
+	&amp;lt;h2&amp;gt;&amp;lt;img alt=&amp;quot;&amp;quot; src=&amp;quot;http://www.qiaomi.org/data/uploads/4.jpg&amp;quot; style=&amp;quot;width: 121px; height: 121px; float: left;margin-right:10px;&amp;quot; /&amp;gt;标准版&amp;lt;/h2&amp;gt;
+	&amp;lt;p&amp;gt;&amp;lt;span style=&amp;quot;font-family:comic sans ms,cursive;&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;span style=&amp;quot;color:#ff0000;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-size:14px;&amp;quot;&amp;gt;$1899&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;3年顶级域名，3年独立IP空间500M，3年技术支持，巧米系统永久使用。&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;crossband&amp;quot;&amp;gt;
+	&amp;lt;h2&amp;gt;&amp;lt;img alt=&amp;quot;&amp;quot; src=&amp;quot;http://www.qiaomi.org/data/uploads/1.png&amp;quot; style=&amp;quot;width: 121px; height: 121px; float: left;margin-right:10px;&amp;quot; /&amp;gt;高级版&amp;lt;/h2&amp;gt;
+	&amp;lt;p&amp;gt;&amp;lt;span style=&amp;quot;font-family:comic sans ms,cursive;&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;span style=&amp;quot;color:#ff0000;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-size:14px;&amp;quot;&amp;gt;$2999&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;5年顶级域名，5年独立IP空间500M，5年技术支持，巧米系统永久使用。&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;crossband&amp;quot;&amp;gt;
+	&amp;lt;h2&amp;gt;&amp;lt;img alt=&amp;quot;&amp;quot; src=&amp;quot;http://www.qiaomi.org/data/uploads/7.jpg&amp;quot; style=&amp;quot;width: 121px; height: 121px; float: left;margin-right:10px;&amp;quot; /&amp;gt;超级版&amp;lt;/h2&amp;gt;
+	&amp;lt;p&amp;gt;&amp;lt;span style=&amp;quot;font-family:comic sans ms,cursive;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-size:14px;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;color:#ff0000;&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;$5999&amp;lt;/strong&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;10年顶级域名，10年独立IP空间500M，10年技术支持，巧米系统永久使用。&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+</content><private></private><author>admin</author><menuOrder><![CDATA[3]]></menuOrder></item>

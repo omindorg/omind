@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Sat, 20 Jun 2015 13:30:43 +0800</pubDate><title><![CDATA[Color Schema]]></title><url><![CDATA[color-schema]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[Color Schema]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[docs]]></parent><content><![CDATA[&lt;p&gt;To change color schema, add your custom css in backend, on how to add custom css please refer to &lt;a href=&quot;http://www.omind.org/docs/custom-css/&quot;&gt;here&lt;/a&gt;. The CSS may be one of bellow, or you can edit youself.&lt;/p&gt;
+&lt;h2&gt;White&lt;/h2&gt;
+&lt;pre&gt;a, a:visited{color:#0088cc;}
+a:hover{color:#0088cc;}
+header{background: #ffffff;}
+header a{color:#000000;}
+nav li a, nav li a:visited{color:#ffffff;}
+nav li a:hover, nav li.current a{color:#d8d8d8;}
+#logo{color:#333333;}&lt;/pre&gt;
+&lt;h2&gt;Black&lt;/h2&gt;
+&lt;pre&gt;a, a:visited{color:#0088cc;}
+a:hover{color:#0088cc;}
+header{background: #1b2021;}
+header a{color:#ffffff}
+nav li a, nav li a:visited{color:#ffffff;}
+nav li a:hover, nav li.current a{color:#d8d8d8;}
+#logo{color:#ffffff;}&lt;/pre&gt;
+&lt;h2&gt;Red&lt;/h2&gt;
+&lt;pre&gt;a, a:visited{color:#444444;}
+a:hover{color:#7F140D;}
+header{background: #7F140D;}
+header a{color:#ffffff}
+nav li a, nav li a:visited{color:#ffffff;}
+nav li a:hover, nav li.current a{color:#ffff00;}
+#logo{color:#ffffff;}&lt;/pre&gt;
+&lt;h2&gt;Blue&lt;/h2&gt;
+&lt;pre&gt;a, a:visited{color:#333333;}
+a:hover{color:#008000;}
+header{background: #48b701;}
+header a{color:#ffffff;}
+nav li a, nav li a:visited{color:#ffffff;}
+nav li a:hover, nav li.current a{color:#d8d8d8;}
+#logo{color:#ffffff;}&lt;/pre&gt;
+&lt;h2&gt;Green&lt;/h2&gt;
+&lt;pre&gt;a, a:visited{color:#0088cc;}
+a:hover{color:#0088cc;}
+header{background: #1b2021;}
+header a{color:#ffffff}
+nav li a, nav li a:visited{color:#ffffff;}
+nav li a:hover, nav li.current a{color:#d8d8d8;}
+#logo{color:#ffffff;}&lt;/pre&gt;
+&lt;h2&gt;Orange&lt;/h2&gt;
+&lt;pre&gt;a, a:visited{color:#444444;}
+a:hover{color:#7F140D;}
+header{background: #ea8f00;}
+header a{color:#ffffff}
+nav li a, nav li a:visited{color:#ffffff;}
+nav li a:hover, nav li.current a{color:#d8d8d8;}
+#logo{color:#ffffff;}&lt;/pre&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author></item>

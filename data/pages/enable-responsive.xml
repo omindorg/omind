@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Tue, 16 Jun 2015 22:10:18 +0800</pubDate><title><![CDATA[Enable Responsive]]></title><url><![CDATA[enable-responsive]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[Enable Responsive]]></menu><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[docs]]></parent><content><![CDATA[&lt;p&gt;To Enable Website Responsive:&lt;/p&gt;
+&lt;ol&gt;
+	&lt;li&gt;Open &lt;strong&gt;Theme&lt;/strong&gt; &amp;gt; &lt;strong&gt;Configure Theme.&lt;/strong&gt;&lt;/li&gt;
+	&lt;li&gt;check&amp;nbsp;&lt;strong&gt;Responsive&lt;/strong&gt; - Adapt the layout to the viewing environment&lt;/li&gt;
+&lt;/ol&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author><menuOrder><![CDATA[3]]></menuOrder></item>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Thu, 11 Jun 2015 23:02:53 +0800</pubDate><title><![CDATA[support multiple language on frontend]]></title><url><![CDATA[multiple-language]]></url><meta><![CDATA[multiple language]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[]]></menu><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[docs]]></parent><content><![CDATA[&lt;p&gt;To support multiple language in fontend, you should do something In the Admin pannel:&lt;/p&gt;
+&lt;p&gt;1. Active &amp;lt;I18N Base&amp;gt; and &amp;lt;I18N Navigation&amp;gt; plugin in Plugins.&lt;/p&gt;
+&lt;p&gt;2. Modify &amp;lt;Custom Permalink Structure:&amp;gt; in Settings to:&lt;/p&gt;
+&lt;pre&gt;%nondefaultlanguage%/%parent%/%slug%/&lt;/pre&gt;
+&lt;p&gt;Generally, It is blank.&lt;/p&gt;
+&lt;p&gt;3. Create new page and the slug of it should be end of language code, for example &lt;strong&gt;index_fr&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;4. Add a Component named &amp;nbsp;&lt;strong&gt;language_lists&lt;/strong&gt;., then add your language code list and aras. for example:&lt;/p&gt;
+&lt;pre&gt;en,English,fr,français&lt;/pre&gt;
+&lt;p&gt;5. Open the &lt;strong&gt;.htaccess&lt;/strong&gt; file in the root of your web server. edit it as following:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Add fr in the back of every &amp;nbsp;(cn|tw) as (cn|tw|fr)&lt;/li&gt;
+	&lt;li&gt;Modify every lang=en to your default language(If need), as lang=fr.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Notice: If you don&#039;t use multi language support, undo the above step.&lt;/p&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author><menuOrder><![CDATA[6]]></menuOrder></item>

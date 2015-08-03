@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Sat, 20 Jun 2015 13:29:39 +0800</pubDate><title><![CDATA[Documentation and User Guide]]></title><url><![CDATA[docs]]></url><meta><![CDATA[documentation for basekind]]></meta><metad><![CDATA[Documentation and User Guide for basekind builder]]></metad><menu><![CDATA[Docs]]></menu><menuStatus><![CDATA[Y]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;h2&gt;Getting Start&lt;/h2&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.omind.org/docs/installation/&quot;&gt;Installation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Advance Features&lt;/h2&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.omind.org/docs/shopping-cart/&quot;&gt;Set Paypal account and&amp;nbsp;shopping cart&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.omind.org/docs/custom-css/&quot;&gt;Add custom CSS style&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.omind.org/docs/multiple-language/&quot;&gt;Multi-Language on fontend&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.omind.org/docs/enable-responsive/&quot;&gt;Enable Responsive&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.omind.org/docs/color-schema/&quot;&gt;Change Site color&amp;nbsp;schema&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.omind.org/docs/logo/&quot;&gt;Change Logo image&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.omind.org/docs/slider/&quot;&gt;Add slider in any page&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Fixed html component on scrolling&lt;/li&gt;
+	&lt;li&gt;Code highlight with google pretty&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.omind.org/docs/faq/&quot;&gt;Frequently Asked Questions (FAQ)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author><menuOrder><![CDATA[2]]></menuOrder></item>
